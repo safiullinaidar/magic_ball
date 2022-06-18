@@ -1,6 +1,16 @@
-# Magic ball game
-My version of popular game written in Ruby
+<h1 align="start">
+  Волшебный шар
+</h1>
+<p align="start">
+  <img alt="magic ball" src="src/magic-8-ball.png" width="200"/>
+</p>
 
-# Try it
-If you want to play the game you need to launch it like this:
-  `$ ~/magic_ball/ruby magic_ball.rb`
+## История и описание
+Волшебный шар (англ. Magic 8 ball) - это популярная игрушка, напоминающая внешне бильярдный шар №8. Описание и принцип работы шара указаны [здесь](https://ru.wikipedia.org/wiki/Magic_8_ball)
+
+## Запуск и использование
+Перед Вами консольная версия популярной игры, написанная на языке Ruby. Перед запуском игры задумайте закрытый вопрос (требующий ответа "да", "нет", "возможно"), затем в терминале перейдите в папку проекта и наберите следующую команду:
+```
+$ ruby magic_ball.rb
+```
+И пусть шар оправдает все Ваши надежды :)
